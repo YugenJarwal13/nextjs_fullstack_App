@@ -1,0 +1,9 @@
+-> To create next.js project: npx create-next-app@latest command in the directory
+-> modelling is very important that where are we doing what, so for that we are creating models folder.
+-> Install ORM mongoose, using npm i mongoose
+-> In mongoose the string is written in capital while in the typescript it is written in small.
+-> created schemas in the Users.ts
+-> match can be used for incorporating the use of regex, it can be used from the regexr website as well.
+
+
+
